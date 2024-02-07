@@ -1,9 +1,6 @@
 # Tarjeta Red
 
 
-
-# Paquetes RPM
-
 ***
 ![logo](/img/rpm.png)
 
