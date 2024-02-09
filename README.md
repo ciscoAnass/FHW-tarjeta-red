@@ -8,7 +8,7 @@
 # Indice
 ***
 
-## [1- Definición de la tarjeta Red ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Introduccion.md)
+## [1- ¿Qué es una Tarjeta Red red? ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Introduccion.md)
 ## [2- Características principales](https://github.com/ciscoAnass/paquetesrpm/blob/main/Distribucion%20Rocky%20Linux.md)
 ## [3- Tipos de la Tarjeta Red](https://github.com/ciscoAnass/paquetesrpm/blob/main/Repositorios.md)
 ## [4- Ejemplos comerciales ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Caso%20practico.md)
