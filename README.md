@@ -2,7 +2,7 @@
 
 
 ***
-![logo](/img/logo.jpg)
+<img src="/img/logo.jpg" alt="logo" width="400px"></img>
 
 
 # Indice
