@@ -2,7 +2,7 @@
 
 
 ***
-![logo](/img/rpm.png)
+![logo](/img/logo.jpg)
 
 
 # Indice
