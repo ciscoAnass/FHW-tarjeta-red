@@ -8,11 +8,11 @@
 # Indice
 ***
 
-## [1- ¿Qué es una Tarjeta Red ? ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Introduccion.md)
-## [2- Características principales](https://github.com/ciscoAnass/paquetesrpm/blob/main/Distribucion%20Rocky%20Linux.md)
-## [3- Tipos de la Tarjeta Red](https://github.com/ciscoAnass/paquetesrpm/blob/main/Repositorios.md)
-## [4- Ejemplos comerciales ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Caso%20practico.md)
-## [5- Conclusiones ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Caso%20practico.md)
+## [1- ¿Qué es una Tarjeta Red ? ](https://github.com/ciscoAnass/FHW-tarjeta-red/blob/main/definicion.md)
+## [2- Características principales](https://github.com/ciscoAnass/FHW-tarjeta-red/blob/main/caracteristicas.md)
+## [3- Tipos de la Tarjeta Red](https://github.com/ciscoAnass/FHW-tarjeta-red/blob/main/tipos.md)
+## [4- Marcas ](https://github.com/ciscoAnass/FHW-tarjeta-red/blob/main/Marcas.md)
+## [5- Conclusiones ](https://github.com/ciscoAnass/FHW-tarjeta-red/blob/main/conclucion.md)
 
 
 ***
