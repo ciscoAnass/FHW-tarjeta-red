@@ -24,8 +24,8 @@ Existen diferentes tipos de tarjetas de red, incluyendo:
 
 
 # Referencias
-## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
-## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
+## [Referencia 1 : wikipedia.org](https://es.wikipedia.org/wiki/Tarjeta_de_red)
+## [Referencia 2 : lifewire.com](https://www.lifewire.com/definition-of-adapter-817585)
 
 
 
