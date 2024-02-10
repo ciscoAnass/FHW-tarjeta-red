@@ -11,7 +11,7 @@ La tarjeta de red, también conocida como adaptador de red o interfaz de red, es
 
 3. **Protocolos de red:** La tarjeta de red es compatible con varios protocolos de red, como TCP/IP, que son fundamentales para la comunicación efectiva en una red.
 
-<img src="/img/def1.png" alt="logo" width="600px"></img>
+<img src="/img/def1.png" alt="logo" width="800px"></img>
 
 ## Tipos de Tarjetas de Red
 
