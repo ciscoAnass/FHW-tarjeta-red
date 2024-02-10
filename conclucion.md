@@ -6,9 +6,13 @@ En resumen, la tarjeta de red es un componente esencial en el mundo de la conect
 
 La tarjeta de red facilita la conexión de las computadoras a redes locales o a través de Internet, permitiendo la transferencia eficiente de datos y el acceso a recursos compartidos.
 
+
+
 ## Funciones Principales
 
 Desde las funciones básicas de conexión hasta la transmisión de datos y la compatibilidad con diversos protocolos, la tarjeta de red es versátil y esencial para la comunicación en entornos digitales.
+
+<img src="/img/UA.jpg" alt="logo" width="600px"></img>
 
 ## Consideraciones Clave
 
