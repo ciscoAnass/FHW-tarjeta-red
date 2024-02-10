@@ -27,3 +27,13 @@ Desde las funciones básicas de conexión hasta la transmisión de datos y la co
 La instalación y configuración adecuadas, junto con la elección de una tarjeta que se adapte a tus necesidades específicas, son esenciales para garantizar un rendimiento óptimo y una conectividad confiable.
 
 **En última instancia, la selección y comprensión de la tarjeta de red adecuada contribuyen significativamente a la eficiencia y la efectividad de las redes digitales en una variedad de entornos.**
+
+
+
+# Referencias
+## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
+## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
+
+
+
+
