@@ -22,3 +22,11 @@ Existen diferentes tipos de tarjetas de red, incluyendo:
 - **Tarjetas Wi-Fi:** Permiten conexiones inalámbricas a redes Wi-Fi.
 
 
+
+# Referencias
+## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
+## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
+
+
+
+
