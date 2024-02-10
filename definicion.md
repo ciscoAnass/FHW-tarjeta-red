@@ -21,17 +21,9 @@ Existen diferentes tipos de tarjetas de red, incluyendo:
 
 - **Tarjetas Wi-Fi:** Permiten conexiones inalámbricas a redes Wi-Fi.
 
-- **Tarjetas de red Bluetooth:** Utilizadas para la conexión inalámbrica a dispositivos compatibles con Bluetooth.
 
-## Instalación
-
-La instalación de una tarjeta de red generalmente implica la inserción de la tarjeta en una ranura de expansión en la placa madre y la instalación de controladores adecuados.
 
 ## Conclusiones
 
 En resumen, la tarjeta de red desempeña un papel crucial en la conectividad de las computadoras a las redes. Su elección y configuración adecuadas son esenciales para lograr un rendimiento óptimo en las comunicaciones de red.
-
----
-
-*Este documento es solo una introducción a la tarjeta de red. Si deseas obtener información más detallada o específica, consulta las fuentes adicionales y documentación relevante.*
 
