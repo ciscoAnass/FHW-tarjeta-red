@@ -22,8 +22,3 @@ Existen diferentes tipos de tarjetas de red, incluyendo:
 - **Tarjetas Wi-Fi:** Permiten conexiones inalámbricas a redes Wi-Fi.
 
 
-
-## Conclusiones
-
-En resumen, la tarjeta de red desempeña un papel crucial en la conectividad de las computadoras a las redes. Su elección y configuración adecuadas son esenciales para lograr un rendimiento óptimo en las comunicaciones de red.
-
