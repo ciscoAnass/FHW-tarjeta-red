@@ -1,41 +1,25 @@
-
 # Tipos de Tarjetas de Red
 
-Existen diversos tipos de tarjetas de red, cada una diseñada para satisfacer necesidades específicas de conectividad. A continuación, se describen algunos tipos comunes:
+Las tarjetas de red son esenciales para la conectividad en entornos informáticos. Se dividen principalmente en dos tipos: interno y externo.
 
-## 1. Tarjetas Ethernet
+## 1. Tarjetas de Red Internas
 
-- **Descripción:** Utilizadas para conexiones cableadas.
-- **Características:** Ofrecen velocidades que van desde 10 Mbps hasta varios Gbps.
+### Descripción:
+Las tarjetas de red internas se encuentran dentro del chasis de la computadora y se conectan directamente a la placa madre.
 
-## 2. Tarjetas Wi-Fi
+### Características Clave:
+- **Conexión Cableada:** Comúnmente a través de Ethernet.
+- **Alta Velocidad:** Ofrecen velocidades de transferencia rápidas.
+- **Estabilidad:** Conexión más estable al estar integradas en la computadora.
 
-- **Descripción:** Permiten conexiones inalámbricas a redes Wi-Fi.
-- **Características:** Varían en estándares, como 802.11ac y 802.11ax, con velocidades que evolucionan con la tecnología.
+## 2. Tarjetas de Red Externas
 
-## 3. Tarjetas Bluetooth
+### Descripción:
+Las tarjetas de red externas son dispositivos separados que se conectan al sistema a través de puertos externos, como USB o Thunderbolt.
 
-- **Descripción:** Utilizadas para la conexión inalámbrica a dispositivos compatibles con Bluetooth.
-- **Características:** Ideales para transferencia de datos a corta distancia.
+### Características Clave:
+- **Versatilidad:** Se pueden utilizar en varios dispositivos.
+- **Conexión Inalámbrica o Cableada:** Dependiendo del modelo.
+- **Portabilidad:** Fáciles de conectar y desconectar.
 
-## 4. Tarjetas de Red de Fibra Óptica
-
-- **Descripción:** Emplean cables de fibra óptica para transmitir datos.
-- **Características:** Proporcionan altas velocidades y son resistentes a interferencias electromagnéticas.
-
-## 5. Tarjetas de Red 10 Gigabit
-
-- **Descripción:** Diseñadas para redes de alta velocidad.
-- **Características:** Ofrecen velocidades de 10 Gbps, adecuadas para entornos empresariales y servidores.
-
-## 6. Tarjetas de Red 4G/5G
-
-- **Descripción:** Permiten conexiones a redes móviles de alta velocidad.
-- **Características:** Ideales para dispositivos móviles y áreas sin infraestructura de red fija.
-
-**Conclusión:** La elección del tipo de tarjeta de red dependerá de las necesidades específicas de conectividad, ya sea para redes cableadas, inalámbricas, o entornos empresariales de alta velocidad.
-
----
-
-*Esta página ofrece una visión general de algunos tipos comunes de tarjetas de red. Para detalles específicos y compatibilidad, consulta la documentación del fabricante.*
-
+  <img src="/img/tipos.webp" alt="logo" width="600px"></img>
