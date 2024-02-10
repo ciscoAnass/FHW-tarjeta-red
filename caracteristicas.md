@@ -25,3 +25,13 @@ Considera funciones de administración de energía para optimizar el consumo seg
 ## 6. Seguridad
 
 Algunas tarjetas incluyen cifrado y autenticación para proteger la integridad de los datos.
+
+
+
+# Referencias
+## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
+## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
+
+
+
+
