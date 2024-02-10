@@ -2,17 +2,26 @@
 
 En cuanto a las tarjetas de red, las características clave son esenciales:
 
-- **Velocidad de Transferencia:** Determina la rapidez de envío y recepción de datos.
+## Velocidad de Transferencia:
 
-- **Duplex Completo y Semi-Duplex:** Permite la comunicación bidireccional de datos.
+- Determina la rapidez de envío y recepción de datos.
 
-- **Protocolos de Red:** Garantiza la compatibilidad con TCP/IP y otros protocolos.
+  ## Duplex Completo y Semi-Duplex:
+-  Permite la comunicación bidireccional de datos.
 
-- **Conectividad Inalámbrica:** Importante para tarjetas Wi-Fi, con estándares como 802.11ac.
+  ## Protocolos de Red
+  
+-  Garantiza la compatibilidad con TCP/IP y otros protocolos.
 
-- **Administración de Energía:** Funciones que optimizan el consumo según la demanda de red.
+  ## Conectividad Inalámbrica
 
-- **Seguridad:** Incluye cifrado y autenticación para proteger la integridad de los datos.
+-  Importante para tarjetas Wi-Fi, con estándares como 802.11ac.
 
----
-*Estas características son cruciales para seleccionar una tarjeta que se adapte a tus necesidades específicas.*
+  ## Administración de Energía
+
+-  Funciones que optimizan el consumo según la demanda de red.
+
+  ## Seguridad
+  
+-  Incluye cifrado y autenticación para proteger la integridad de los datos.
+
