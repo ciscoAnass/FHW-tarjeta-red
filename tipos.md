@@ -29,8 +29,8 @@ Las tarjetas de red externas son dispositivos separados que se conectan al siste
 
 
 # Referencias
-## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
-## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
+## [Referencia 1 : community.fs.com](https://community.fs.com/es/article/nic-card-guide-for-beginners-functions-types-and-selection-tips.html)
+## [Referencia 2 : redeszone.net](https://www.redeszone.net/reportajes/listas/mejores-tarjetas-red-ethernet/)
 
 
 
