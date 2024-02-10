@@ -31,8 +31,11 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 
 # Referencias
-## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
-## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
+## [Referencia 1 : pccomponentes.com](https://www.pccomponentes.com/intel-e810cqda2ocpv3-adaptador-y-tarjeta-de-red-interno-para-ocp-30)
+## [Referencia 2 : Amazon.es](https://www.amazon.es/TP-LINK-TG-3468-Adaptador-Wake-LAN/dp/B003CFATNI)
+## [Referencia 3 : Amazon.es](https://www.amazon.es/ASUS-PCE-N15-Tarjeta-Wi-Fi-802-11/dp/B0053GR2YI/ref=sr_1_7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=17D8F2BLEGAW0&keywords=asus+network+card&qid=1707566758&sprefix=asus+network+card%2Caps%2C125&sr=8-7)
+## [Referencia 4 : Amazon.es](https://www.amazon.es/10Gtek%C2%AE-Gigabit-Ethernet-Adaptador-convergente/dp/B071R3YS2H)
+
 
 
 
