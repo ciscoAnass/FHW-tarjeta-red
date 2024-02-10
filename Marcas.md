@@ -22,7 +22,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 - **Cisco:** Cisco es líder en soluciones de red empresarial. Ofrece tarjetas de red diseñadas para redes de gran escala y alto rendimiento.
 
-
+***
 
 ## PRODUCTOS :
 
