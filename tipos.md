@@ -22,4 +22,4 @@ Las tarjetas de red externas son dispositivos separados que se conectan al siste
 - **Conexión Inalámbrica o Cableada:** Dependiendo del modelo.
 - **Portabilidad:** Fáciles de conectar y desconectar.
 
-  <img src="/img/tipos.webp" alt="logo" width="600px"></img>
+  <img src="/img/tipos.webp" alt="logo" width="900px"></img>
