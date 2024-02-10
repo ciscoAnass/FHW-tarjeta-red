@@ -1,35 +1,18 @@
 # Características Principales de la Tarjeta de Red
 
-La tarjeta de red desempeña un papel crucial en la conectividad de los dispositivos. Al elegir una tarjeta, es vital tener en cuenta sus características clave:
+En cuanto a las tarjetas de red, las características clave son esenciales:
 
-## 1. Velocidad de Transferencia
+- **Velocidad de Transferencia:** Determina la rapidez de envío y recepción de datos.
 
-La velocidad, medida en Mbps o Gbps, determina la rapidez de envío y recepción de datos.
+- **Duplex Completo y Semi-Duplex:** Permite la comunicación bidireccional de datos.
 
-## 2. Duplex Completo y Semi-Duplex
+- **Protocolos de Red:** Garantiza la compatibilidad con TCP/IP y otros protocolos.
 
-La capacidad de operar en modos duplex completo o semi-duplex permite la comunicación bidireccional.
+- **Conectividad Inalámbrica:** Importante para tarjetas Wi-Fi, con estándares como 802.11ac.
 
-## 3. Protocolos de Red
+- **Administración de Energía:** Funciones que optimizan el consumo según la demanda de red.
 
-Asegúrate de que la tarjeta sea compatible con los protocolos utilizados en tu red, como TCP/IP y UDP.
-
-## 4. Conectividad Inalámbrica
-
-Para tarjetas Wi-Fi, verifica la compatibilidad con estándares como 802.11ac o 802.11ax.
-
-## 5. Administración de Energía
-
-Considera funciones de administración de energía para optimizar el consumo según la demanda de red.
-
-## 6. Seguridad
-
-Algunas tarjetas incluyen cifrado y autenticación para proteger la integridad de los datos.
-
-**Conclusión:** La elección de una tarjeta con características adecuadas es esencial para garantizar un rendimiento confiable en tu red.
+- **Seguridad:** Incluye cifrado y autenticación para proteger la integridad de los datos.
 
 ---
-
-*Esta página ofrece una visión rápida de las características clave. Consulta la documentación del fabricante para detalles específicos.*
-
-
+*Estas características son cruciales para seleccionar una tarjeta que se adapte a tus necesidades específicas.*
