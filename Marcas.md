@@ -26,4 +26,4 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 ## PRODUCTOS :
 
-<img src="/img/PRDCT1.png" alt="logo" width="900px"></img>
+<img src="/img/PRDCT1.png" alt="logo" width="1000px"></img>
