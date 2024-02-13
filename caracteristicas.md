@@ -26,6 +26,7 @@ Considera funciones de administración de energía para optimizar el consumo seg
 
 Algunas tarjetas incluyen cifrado y autenticación para proteger la integridad de los datos.
 
+<img src="/img/tred.webp" alt="logo" width="600px"></img>
 
 
 # Referencias
