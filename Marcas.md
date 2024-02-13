@@ -25,8 +25,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 ## 4. **Realtek**
 
-- **Realtek:** es un fabricante que proporciona una amplia gama de soluciones de red, incluyendo tarjetas integradas en placas madre y adaptadores independientes.
-
+- 
 ## 6. **Cisco**
 
 - **Cisco:** Cisco es líder en soluciones de red empresarial. Ofrece tarjetas de red diseñadas para redes de gran escala y alto rendimiento.
