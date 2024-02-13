@@ -13,7 +13,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
  - Función Wake-on-LAN, gestión remota a través de la red local
  - Apoyo a raspberry pi
  - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista,Linux (32/64bits)
- - 
+   
 ## 3. **ASUS**
 
 - Es compatible con WEP, WPA-PSK y WPA2-PSK para mejorar la seguridad
