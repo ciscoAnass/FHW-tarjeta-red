@@ -2,11 +2,10 @@
 
 Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuación, se presentan algunas marcas reconocidas en el mercado:
 
-## 1. **Intel**
+<img src="/img/PRDCT1.png" alt="logo" width="1000px"></img>
 
-- **INTEL:**  es conocido por producir tarjetas de red confiables y de alto rendimiento. Ofrece una variedad de opciones, desde tarjetas para uso doméstico hasta soluciones empresariales.
 
-## 2. **TP-Link**
+## 1. **TP-Link**
 
  - Adaptador PCIe a 10/100/1000 Mbps, sin WiFi
  - Interface PCIe de 32 bits: ahorro de espacio en interior del equipo
@@ -14,7 +13,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
  - Apoyo a raspberry pi
  - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista,Linux (32/64bits)
    
-## 3. **ASUS**
+## 2. **ASUS**
 
 - Es compatible con WEP, WPA-PSK y WPA2-PSK para mejorar la seguridad
 -   Dispone de dos antenas omnidireccionales desmontables externas
@@ -23,18 +22,23 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 -   Interfaz: RF inalámbrico
 -  Requisitos del sistema: Windows 8 , 32bit/64bit,Windows 7 , 32bit/64bit,Windows Vista , 32bit/64bit,Windows XP , 32bit/64bit,Linux Kernel 2.6 (Solo es compatible con Ubuntu)
 
-## 4. **Realtek**
+## 3. **Realtek**
 
-- 
-## 6. **Cisco**
+ - Adaptador PCIe a 10/100/1000 Mbps, sin WiFi
+ - Función Wake-on-LAN, gestión remota a través de la red local
+ - Apoyo a raspberry pi
+ - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista (32/64bits)
 
-- **Cisco:** Cisco es líder en soluciones de red empresarial. Ofrece tarjetas de red diseñadas para redes de gran escala y alto rendimiento.
+
+
+## 4. **Intel**
+
+- Ethernet LAN, velocidad de transferencia de datos: 1000,10000,25000,50000,100000 Mbit/s
+- Interfaz de host: PCI Express
+- Controlador LAN: Intel E810
+-  Sistemas operativos compatibles: Windows Cliente 10,11 y Windows Server 2016,2019 ,2022 y Linux ( Debian 11 , Ubuntu Server 20 y 22 , SLES , RHEL )
 
 ***
-
-## PRODUCTOS :
-
-<img src="/img/PRDCT1.png" alt="logo" width="1000px"></img>
 
 
 
