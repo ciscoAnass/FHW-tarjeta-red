@@ -14,7 +14,7 @@ La capacidad de operar en modos duplex completo o semi-duplex permite la comunic
 
 Asegúrate de que la tarjeta sea compatible con los protocolos utilizados en tu red, como TCP/IP y UDP.
 
-<img src="/img/tred.webp" alt="logo" width="700px"></img>
+<img src="/img/tred.webp" alt="logo" width="650px"></img>
 
 
 ## 4. Conectividad Inalámbrica
@@ -29,7 +29,6 @@ Considera funciones de administración de energía para optimizar el consumo seg
 
 Algunas tarjetas incluyen cifrado y autenticación para proteger la integridad de los datos.
 
-<img src="/img/tred.webp" alt="logo" width="600px"></img>
 
 
 # Referencias
