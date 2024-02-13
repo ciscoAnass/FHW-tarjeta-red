@@ -8,8 +8,12 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 ## 2. **TP-Link**
 
-- **TP-LINK:** TP- se destaca por ofrecer tarjetas de red accesibles y de calidad. Es una opción popular para usuarios domésticos y pequeñas empresas.
-
+ - Adaptador PCIe a 10/100/1000 Mbps, sin WiFi
+ - Interface PCIe de 32 bits: ahorro de espacio en interior del equipo
+ - Función Wake-on-LAN, gestión remota a través de la red local
+ - Apoyo a raspberry pi
+ - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista,Linux (32/64bits)
+ - 
 ## 3. **ASUS**
 
 - **ASUS:**  no solo es conocido por sus productos de hardware, sino también por sus tarjetas de red de alta calidad, especialmente las diseñadas para jugadores y entusiastas.
