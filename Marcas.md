@@ -16,7 +16,12 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
  - 
 ## 3. **ASUS**
 
-- **ASUS:**  no solo es conocido por sus productos de hardware, sino también por sus tarjetas de red de alta calidad, especialmente las diseñadas para jugadores y entusiastas.
+- Es compatible con WEP, WPA-PSK y WPA2-PSK para mejorar la seguridad
+-   Dispone de dos antenas omnidireccionales desmontables externas
+-  Estándar Wi-Fi: IEEE 802.11 b/g/n, hasta 300 Mbps
+- Tecnología de conectividad: alámbrico
+-   Interfaz: RF inalámbrico
+-  Requisitos del sistema: Windows 8 , 32bit/64bit,Windows 7 , 32bit/64bit,Windows Vista , 32bit/64bit,Windows XP , 32bit/64bit,Linux Kernel 2.6 (Solo es compatible con Ubuntu)
 
 ## 4. **Realtek**
 
