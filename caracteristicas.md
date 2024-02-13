@@ -14,6 +14,9 @@ La capacidad de operar en modos duplex completo o semi-duplex permite la comunic
 
 Asegúrate de que la tarjeta sea compatible con los protocolos utilizados en tu red, como TCP/IP y UDP.
 
+<img src="/img/tred.webp" alt="logo" width="900px"></img>
+
+
 ## 4. Conectividad Inalámbrica
 
 Para tarjetas Wi-Fi, verifica la compatibilidad con estándares como 802.11ac o 802.11ax.
