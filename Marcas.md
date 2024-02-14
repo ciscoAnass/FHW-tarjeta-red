@@ -7,7 +7,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 ## 1. **TP-Link (Ethernet)**
 
- - Velocidad a 1000 Mbps
+ - Velocidad : hasta 1000 Mbps
  - Función Wake-on-LAN, gestión remota a través de la red local
  - Apoyo a raspberry pi
  - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista,Linux (32/64bits)
@@ -16,15 +16,13 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 - Es compatible con WEP, WPA-PSK y WPA2-PSK para mejorar la seguridad
 -   Dispone de dos antenas omnidireccionales desmontables externas
--  Estándar Wi-Fi: IEEE 802.11 b/g/n, hasta 300 Mbps
+-  Velocidad : hasta 300 Mbps
 - Tecnología de conectividad: alámbrico
--   Interfaz: RF inalámbrico
--  Requisitos del sistema: Windows 8 , 32bit/64bit,Windows 7 , 32bit/64bit,Windows Vista , 32bit/64bit,Windows XP , 32bit/64bit,Linux Kernel 2.6 (Solo es compatible con Ubuntu)
+-  Requisitos del sistema:  Windows 11/10/8.1/8/7/XP/Vista  (32bit/64bit) ,Linux Kernel 2.6 (Solo es compatible con Ubuntu)
 
 ## 3. **Intel (Ethernet)**
 
 - Ethernet LAN, velocidad de transferencia de datos: 1000,10000,25000,50000,100000 Mbit/s
-- Interfaz de host: PCI Express
 - Controlador LAN: Intel E810
 -  Sistemas operativos compatibles: Windows Cliente 10,11 y Windows Server 2016,2019 ,2022 y Linux ( Debian 11 , Ubuntu Server 20 y 22 , SLES , RHEL )
 
