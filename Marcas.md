@@ -7,7 +7,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 ## 1. **TP-Link**
 
- - Adaptador PCIe a 10/100/1000 Mbps
+ - Velocidad a 1000 Mbps
  - Función Wake-on-LAN, gestión remota a través de la red local
  - Apoyo a raspberry pi
  - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista,Linux (32/64bits)
