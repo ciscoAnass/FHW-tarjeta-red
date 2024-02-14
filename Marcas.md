@@ -5,14 +5,14 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 <img src="/img/PRDCT1.png" alt="logo" width="1000px"></img>
 
 
-## 1. **TP-Link**
+## 1. **TP-Link (Ethernet)**
 
  - Velocidad a 1000 Mbps
  - Función Wake-on-LAN, gestión remota a través de la red local
  - Apoyo a raspberry pi
  - Requisitos del sistema: Windows 11/10/8.1/8/7/XP/Vista,Linux (32/64bits)
    
-## 2. **ASUS**
+## 2. **ASUS (Inalambrica)**
 
 - Es compatible con WEP, WPA-PSK y WPA2-PSK para mejorar la seguridad
 -   Dispone de dos antenas omnidireccionales desmontables externas
@@ -21,7 +21,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 -   Interfaz: RF inalámbrico
 -  Requisitos del sistema: Windows 8 , 32bit/64bit,Windows 7 , 32bit/64bit,Windows Vista , 32bit/64bit,Windows XP , 32bit/64bit,Linux Kernel 2.6 (Solo es compatible con Ubuntu)
 
-## 3. **Realtek**
+## 3. **Realtek (Ethernet)**
 
  - Adaptador PCIe a 10/100/1000 Mbps, sin WiFi
  - Función Wake-on-LAN, gestión remota a través de la red local
@@ -30,7 +30,7 @@ Al elegir una tarjeta de red, la marca puede ser un factor crucial. A continuaci
 
 
 
-## 4. **Intel**
+## 4. **Intel (Ethernet)**
 
 - Ethernet LAN, velocidad de transferencia de datos: 1000,10000,25000,50000,100000 Mbit/s
 - Interfaz de host: PCI Express
